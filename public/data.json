@@ -1,0 +1,240 @@
+[
+    {
+      "id": "react",
+      "name": "React",
+      "category": "Frontend",
+      "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+      "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+      "rating": 4.9,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Popular"
+    },
+
+    {
+      "id": "angular",
+      "name": "Angular",
+      "category": "Frontend",
+      "description": "A TypeScript-based framework by Google for building scalable single-page applications.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Angular.svg",
+      "rating": 4.5,
+      "difficulty": "Advanced",
+      "badge": "Enterprise"
+    },
+    
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "category": "Frontend",
+      "description": "A React framework for production with server-side rendering, static generation, and API routes.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Next.js.svg",
+      "rating": 4.9,
+      "difficulty": "Intermediate",
+      "badge": "Popular"
+    },
+
+    {
+      "id": "express",
+      "name": "Express",
+      "category": "Backend",
+      "description": "A minimal and flexible Node.js web application framework for building APIs and web servers.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Express.svg",
+      "rating": 4.6,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Minimal"
+    },
+    
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "category": "Backend",
+      "description": "A runtime environment that lets you run JavaScript on the server side using the V8 engine.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+      "rating": 4.7,
+      "difficulty": "Intermediate",
+      "badge": "Essential"
+    },
+    
+    {
+      "id": "django",
+      "name": "Django",
+      "category": "Backend",
+      "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Django.svg",
+      "rating": 4.6,
+      "difficulty": "Intermediate",
+      "badge": "Batteries Included"
+    },
+    
+    {
+      "id": "springboot",
+      "name": "Spring Boot",
+      "category": "Backend",
+      "description": "A Java-based framework that simplifies building production-ready, stand-alone Spring applications.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "rating": 4.7,
+      "difficulty": "Advanced",
+      "badge": "Enterprise"
+    },
+    {
+      "id": "postgresql",
+      "name": "PostgreSQL",
+      "category": "Database",
+      "description": "A powerful, open-source object-relational database system known for reliability and data integrity.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "rating": 4.8,
+      "difficulty": "Intermediate",
+      "badge": "Reliable"
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "category": "Database",
+      "description": "A document-oriented NoSQL database that stores data in flexible, JSON-like BSON documents.",
+      "icon": "https://icon.icepanel.io/Technology/svg/MongoDB.svg",
+      "rating": 4.5,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Flexible"
+    },
+    {
+      "id": "mysql",
+      "name": "MySQL",
+      "category": "Database",
+      "description": "A widely used open-source relational database management system known for speed and reliability.",
+      "icon": "https://icon.icepanel.io/Technology/svg/MySQL.svg",
+      "rating": 4.6,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Essential"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "Language",
+      "description": "A versatile, readable programming language widely used in web, data science, and automation.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Python.svg",
+      "rating": 4.9,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Essential"
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Language",
+      "description": "A strongly typed superset of JavaScript that compiles to plain JavaScript for safer code.",
+      "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+      "rating": 4.8,
+      "difficulty": "Intermediate",
+      "badge": "Type-Safe"
+    },
+    {
+      "id": "golang",
+      "name": "Go",
+      "category": "Language",
+      "description": "A statically typed, compiled language by Google designed for simplicity and high-performance concurrency.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Go.svg",
+      "rating": 4.8,
+      "difficulty": "Intermediate",
+      "badge": "Fast"
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "category": "Language",
+      "description": "A systems programming language focused on memory safety, speed, and fearless concurrency.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Rust.svg",
+      "rating": 4.9,
+      "difficulty": "Advanced",
+      "badge": "Memory-Safe"
+    },
+    {
+      "id": "tailwindcss",
+      "name": "Tailwind CSS",
+      "category": "Styling",
+      "description": "A utility-first CSS framework for rapidly building custom user interfaces without leaving your HTML.",
+      "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/960px-Tailwind_CSS_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20230715030042",
+      "rating": 4.7,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Fast"
+    },
+    {
+      "id": "sass",
+      "name": "Sass",
+      "category": "Styling",
+      "description": "A mature CSS preprocessor with variables, nesting, and mixins for maintainable stylesheets.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Sass.svg",
+      "rating": 4.6,
+      "difficulty": "Intermediate",
+      "badge": "Scalable"
+    },
+    {
+      "id": "bootstrap",
+      "name": "Bootstrap",
+      "category": "Styling",
+      "description": "A popular CSS framework with prebuilt components and a responsive grid system for quick prototyping.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Bootstrap.svg",
+      "rating": 4.4,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Responsive"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "DevOps",
+      "description": "A platform for building, shipping, and running applications in lightweight, portable containers.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+      "rating": 4.8,
+      "difficulty": "Intermediate",
+      "badge": "Containers"
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "category": "DevOps",
+      "description": "An open-source system for automating deployment, scaling, and management of containerized apps.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Kubernetes.svg",
+      "rating": 4.7,
+      "difficulty": "Advanced",
+      "badge": "Orchestration"
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "description": "A distributed version control system for tracking changes in source code during development.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Git.svg",
+      "rating": 4.9,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Essential"
+    },
+    {
+      "id": "webpack",
+      "name": "Webpack",
+      "category": "Tools",
+      "description": "A powerful module bundler that compiles and optimizes JavaScript, CSS, and assets for the web.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Webpack.svg",
+      "rating": 4.4,
+      "difficulty": "Advanced",
+      "badge": "Bundler"
+    },
+
+    {
+      "id": "vue",
+      "name": "Vue.js",
+      "category": "Frontend",
+      "description": "A progressive JavaScript framework for building interactive UIs with an approachable learning curve.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+      "rating": 4.7,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Approachable"
+    },
+
+    {
+      "id": "vite",
+      "name": "Vite",
+      "category": "Tools",
+      "description": "A next-generation frontend build tool offering instant server start and lightning-fast hot module replacement.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Vite.svg",
+      "rating": 4.8,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Lightning Fast"
+    }
+  ]
