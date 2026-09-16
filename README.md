@@ -1,14 +1,17 @@
-🚀 DevStack Explorer
+##🚀 DevStack Explorer
+
 A modern platform for discovering and exploring technologies for your next development project.
 
-📌 About The Project
+##📌 About The Project
+
 DevStack Explorer is a modern, responsive web application built to help developers discover and explore a wide range of technologies used in software development.
 
 The application provides an organized and user-friendly interface where developers can explore different technologies, understand their roles within the development ecosystem, and find suitable tools for building their projects.
 
 Built with a component-based architecture and a modern frontend development workflow, the project emphasizes performance, scalability, maintainability, and responsive design.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
+
 React — Component-based UI development
 
 TypeScript — Type-safe and maintainable application code
@@ -21,17 +24,22 @@ Vite — Fast development server and optimized build tooling
 
 JSON — Structured technology data management
 
-✨ Key Features
-🔍 Technology Discovery
+##✨ Key Features
+
+##🔍 Technology Discovery
+
 Browse and explore different development technologies through a structured and intuitive interface.
 
-🗂️ Organized Technology Data
+##🗂️ Organized Technology Data
+
 Technology information is maintained using structured JSON data, making the application easier to manage, update, and extend.
 
-📱 Responsive & Modern UI
+##📱 Responsive & Modern UI
+
 A clean and responsive interface built with Tailwind CSS, providing a consistent experience across desktop, tablet, and mobile devices.
 
-🎯 Project Goal
+##🎯 Project Goal
+
 The goal of DevStack Explorer is to provide developers with a centralized and easy-to-use platform for discovering technologies and exploring potential tools for their development stack.
 
 
