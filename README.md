@@ -49,30 +49,30 @@ The goal of DevStack Explorer is to provide developers with a centralized and ea
 ## React Questions
 
 
-What is JSX, and why is it used in React?
+1.What is JSX, and why is it used in React?
 
 Ans: JSX is a syntax that allows us to write HTML-like code inside JavaScript. It makes React components easier to write and understand.
 
-What is the difference between props and state?
+2.What is the difference between props and state?
 
 Ans: Props are data passed from a parent component to a child component. State is data managed inside a component that can change over time.
 
-What does the useState hook do, and where did you use it in this project?
+3.What does the useState hook do, and where did you use it in this project?
 
 Ans: useState is used to create and manage changing data in a component. 
 
-What does the useEffect hook do, and why did you need it to load the JSON data?
+4.What does the useEffect hook do, and why did you need it to load the JSON data?
 
 Ans: useEffect runs side-effect code after the component renders. I needed it to fetch the technology JSON data when the page first loads. Without it, the app would try to display the cards before the data was ready.
 
-Why does every item in a .map() list need a unique key prop?
+5.Why does every item in a .map() list need a unique key prop?
 
 Ans: The key helps React identify which items in a list have changed, been added, or been removed. It makes rendering faster and prevents bugs, like the wrong card being removed when you click delete on a specific technology.
 
-What is conditional rendering? Show one place you used it (example: the empty stack message).
+6.What is conditional rendering? Show one place you used it (example: the empty stack message).
 
 Ans: Conditional rendering means showing different UI based on certain conditions (using if statements or ternary operators). In this project, I used it in the sidebar: if the stack is empty, I show a message like "No technologies selected yet"; otherwise, I render the list of selected cards.
 
-How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
+7.How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
 Ans: A parent passes data to a child using props. To send something back, the parent can pass a function as a prop, and the child calls that function with the required data (e.g., onAdd(tech)).
